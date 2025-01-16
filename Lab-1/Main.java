@@ -14,7 +14,7 @@ public class Main {
 	} 
 	public static void main(String[] args) {
 		Main person = new Main(); 
-	person.setName("John Doe"); 
+	person.setName("Tushar Mishra"); 
 	person.setAge(30); 
 	System.out.println("Name: " + person.getName()); 
 	System.out.println("Age: " + person.getAge()); 
